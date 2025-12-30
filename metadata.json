@@ -1,0 +1,5 @@
+{
+  "name": "SmartLabel PDF Cropper",
+  "description": "A specialized tool for logistics and e-commerce to intelligently crop shipping labels from PDF documents using Gemini AI for automatic detection.",
+  "requestFramePermissions": []
+}
